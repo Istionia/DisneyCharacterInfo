@@ -49,6 +49,7 @@
 		B08EB7A82AF8C1D900A146E7 /* DisneyCharacterInfoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DisneyCharacterInfoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B08EB7AC2AF8C1D900A146E7 /* DisneyCharacterInfoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisneyCharacterInfoUITests.swift; sourceTree = "<group>"; };
 		B08EB7AE2AF8C1D900A146E7 /* DisneyCharacterInfoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisneyCharacterInfoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B08EB7BB2AF8C43700A146E7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		B08EB77F2AF8C1CE00A146E7 = {
 			isa = PBXGroup;
 			children = (
+				B08EB7BB2AF8C43700A146E7 /* README.md */,
 				B08EB78A2AF8C1CE00A146E7 /* DisneyCharacterInfo */,
 				B08EB7A12AF8C1D900A146E7 /* DisneyCharacterInfoTests */,
 				B08EB7AB2AF8C1D900A146E7 /* DisneyCharacterInfoUITests */,
