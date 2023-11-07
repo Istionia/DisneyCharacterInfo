@@ -16,6 +16,7 @@
 		B08EB7A32AF8C1D900A146E7 /* DisneyCharacterInfoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08EB7A22AF8C1D900A146E7 /* DisneyCharacterInfoTests.swift */; };
 		B08EB7AD2AF8C1D900A146E7 /* DisneyCharacterInfoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08EB7AC2AF8C1D900A146E7 /* DisneyCharacterInfoUITests.swift */; };
 		B08EB7AF2AF8C1D900A146E7 /* DisneyCharacterInfoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08EB7AE2AF8C1D900A146E7 /* DisneyCharacterInfoUITestsLaunchTests.swift */; };
+		B08EB7C02AF9F62100A146E7 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08EB7BF2AF9F62100A146E7 /* Character.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		B08EB7AC2AF8C1D900A146E7 /* DisneyCharacterInfoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisneyCharacterInfoUITests.swift; sourceTree = "<group>"; };
 		B08EB7AE2AF8C1D900A146E7 /* DisneyCharacterInfoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisneyCharacterInfoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B08EB7BB2AF8C43700A146E7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B08EB7BF2AF9F62100A146E7 /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				B08EB78D2AF8C1CE00A146E7 /* SceneDelegate.swift */,
 				B08EB78F2AF8C1CE00A146E7 /* ViewController.swift */,
 				B08EB7912AF8C1CE00A146E7 /* Main.storyboard */,
+				B08EB7BF2AF9F62100A146E7 /* Character.swift */,
 				B08EB7942AF8C1D700A146E7 /* Assets.xcassets */,
 				B08EB7962AF8C1D700A146E7 /* LaunchScreen.storyboard */,
 				B08EB7992AF8C1D700A146E7 /* Info.plist */,
@@ -263,6 +266,7 @@
 				B08EB7902AF8C1CE00A146E7 /* ViewController.swift in Sources */,
 				B08EB78C2AF8C1CE00A146E7 /* AppDelegate.swift in Sources */,
 				B08EB78E2AF8C1CE00A146E7 /* SceneDelegate.swift in Sources */,
+				B08EB7C02AF9F62100A146E7 /* Character.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
